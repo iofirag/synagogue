@@ -1,2 +1,0 @@
-# synagogue
-Created with CodeSandbox
